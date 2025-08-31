@@ -8,6 +8,10 @@ Unsere vorläufigen Ergebnisse zeigen signifikante Veränderungen in den EEG-Sig
 
 Diese Ergebnisse haben wichtige Implikationen für die Gestaltung von virtuellen und erweiterten Realitätssystemen. Weitere Forschung ist notwendig, um die genauen Mechanismen des AVK besser zu verstehen.
 
+## Ausarbeitung
+
+📄 [Lesen Sie hier unsere Ausarbeitung](./ausarbeitung.pdf)
+
 
 ## Anwendung
 
@@ -27,6 +31,48 @@ Für den Zweck dieser Studie wurde eine bestehende Anwendung zur Erforschung der
     </td>
     <td>
         <img src="./assets/02.jpg" width="350" />
+    </td>
+  </tr>
+</table>
+
+## Durchführung der Probandentests
+
+<table>
+  <tr>
+    <td>
+      <img src="./assets/probandentest_00.jpg" width="350" />
+    </td>
+    <td>
+        <img src="./assets/probandentest_01.jpg" width="350" />
+    </td>
+  </tr>
+  <tr>
+        <td>
+      <img src="./assets/probandentest_02.jpg" width="350" />
+    </td>
+    <td>
+        <img src="./assets/probandentest_03.jpg" width="350" />
+    </td>
+  </tr>
+</table>
+
+## Ergebnisse
+
+<table>
+  <tr>
+    <td>
+      <img src="./assets/Collection3DMapping.jpg" width="350" />
+    </td>
+    <td>
+        <img src="./assets/probandThetaT8entest_01.jpg" width="350" />
+    </td>
+  </tr>
+  <tr>
+        <td>
+      <img src="./assets/BetaT8.jpg" width="350" />
+    </td>
+    <td>
+        <img src="./assets/Signifikanzen.jpg" width="350" />
     </td>
   </tr>
 </table>
