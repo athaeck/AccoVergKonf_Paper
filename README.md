@@ -1,4 +1,4 @@
-# Human Factors in VR: Akkomodations - Konvergenz Konflikt
+# Human Factors in VR: Akkommodations - Konvergenz Konflikt
 
 In dieser Studie untersuchten wir die Auswirkungen des Akkommodation-Vergenz-Konflikts (AVK) auf die Gehirnaktivität, die mit Elektroenzephalographie (EEG) gemessen wurde. Der AVK entsteht durch die Inkonsistenz zwischen der Akkommodation, der Anpassung des Auges an unterschiedliche Entfernungen, und der Vergenz, der Ausrichtung der beiden Augen auf dasselbe Objekt. Der Konflikt tritt besonders in virtuellen und erweiterten Realitätsszenarien auf und kann zu visueller Ermüdung und Desorientierung führen.
 
