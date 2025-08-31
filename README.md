@@ -64,7 +64,7 @@ Für den Zweck dieser Studie wurde eine bestehende Anwendung zur Erforschung der
       <img src="./assets/Collection3DMapping.jpg" width="350" />
     </td>
     <td>
-        <img src="./assets/probandThetaT8entest_01.png" width="350" />
+        <img src="./assets/ThetaT8.png" width="350" />
     </td>
   </tr>
   <tr>
