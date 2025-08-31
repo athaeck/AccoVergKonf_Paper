@@ -64,15 +64,15 @@ Für den Zweck dieser Studie wurde eine bestehende Anwendung zur Erforschung der
       <img src="./assets/Collection3DMapping.jpg" width="350" />
     </td>
     <td>
-        <img src="./assets/probandThetaT8entest_01.jpg" width="350" />
+        <img src="./assets/probandThetaT8entest_01.png" width="350" />
     </td>
   </tr>
   <tr>
         <td>
-      <img src="./assets/BetaT8.jpg" width="350" />
+      <img src="./assets/BetaT8.png" width="350" />
     </td>
     <td>
-        <img src="./assets/Signifikanzen.jpg" width="350" />
+        <img src="./assets/Signifikanzen.png" width="350" />
     </td>
   </tr>
 </table>
